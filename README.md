@@ -1,4 +1,8 @@
-# 🐾 MiauTec
+
+<p align="center">
+  <img src="imagens/gatopreto.png" width="400" height="300">
+</p>
+
 
 Plataforma web desenvolvida com o objetivo de **promover a adoção responsável de animais** e **facilitar doações**, voltada à comunidade acadêmica da **FATEC Zona Leste**.
 
